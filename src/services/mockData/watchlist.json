@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "movieId": "2",
+    "addedDate": "2024-01-15T10:30:00Z",
+    "watched": false,
+    "userRating": null
+  },
+  {
+    "Id": 2,
+    "movieId": "4",
+    "addedDate": "2024-01-10T14:20:00Z",
+    "watched": true,
+    "userRating": 8
+  },
+  {
+    "Id": 3,
+    "movieId": "7",
+    "addedDate": "2024-01-08T16:45:00Z",
+    "watched": false,
+    "userRating": null
+  }
+]

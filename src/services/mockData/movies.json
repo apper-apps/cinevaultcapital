@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "title": "The Midnight Heist",
+    "year": 2023,
+    "poster": "https://images.unsplash.com/photo-1489599807473-d1b7e25df08d?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "A master thief assembles a crew for the ultimate heist, but betrayal lurks in the shadows. When the stakes are this high, trust becomes the most dangerous gamble of all.",
+    "rating": 8.4,
+    "genres": ["Action", "Thriller", "Crime"],
+    "cast": ["Ryan Gosling", "Margot Robbie", "Oscar Isaac", "Lupita Nyong'o"],
+    "director": "Christopher McQuarrie",
+    "streamingLinks": {
+      "netflix": "https://netflix.com/title/midnight-heist",
+      "prime": "https://amazon.com/gp/video/detail/midnight-heist",
+      "hulu": "https://hulu.com/movie/midnight-heist"
+    }
+  },
+  {
+    "Id": 2,
+    "title": "Echoes of Tomorrow",
+    "year": 2024,
+    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "In a world where memories can be extracted and implanted, a detective must solve a murder using the victim's final thoughts. But some memories are too dangerous to remember.",
+    "rating": 9.1,
+    "genres": ["Sci-Fi", "Mystery", "Thriller"],
+    "cast": ["Timothée Chalamet", "Zendaya", "Michael Shannon", "Tilda Swinton"],
+    "director": "Denis Villeneuve",
+    "streamingLinks": {
+      "netflix": "https://netflix.com/title/echoes-tomorrow",
+      "prime": "https://amazon.com/gp/video/detail/echoes-tomorrow",
+      "disney": "https://disneyplus.com/movie/echoes-tomorrow"
+    }
+  },
+  {
+    "Id": 3,
+    "title": "The Last Garden",
+    "year": 2023,
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "After an environmental catastrophe, a botanist races against time to preserve the world's final seed vault. A beautiful meditation on hope, nature, and human resilience.",
+    "rating": 7.8,
+    "genres": ["Drama", "Sci-Fi", "Adventure"],
+    "cast": ["Saoirse Ronan", "Dev Patel", "Frances McDormand", "Michael Cera"],
+    "director": "Chloé Zhao",
+    "streamingLinks": {
+      "prime": "https://amazon.com/gp/video/detail/last-garden",
+      "hulu": "https://hulu.com/movie/last-garden",
+      "apple": "https://tv.apple.com/movie/last-garden"
+    }
+  },
+  {
+    "Id": 4,
+    "title": "Neon Nights",
+    "year": 2022,
+    "poster": "https://images.unsplash.com/photo-1541562232579-512a21360020?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "A cyberpunk love story set in Neo-Tokyo, where underground racers compete for glory and survival. Fast cars, neon lights, and a romance that defies all odds.",
+    "rating": 8.2,
+    "genres": ["Action", "Romance", "Sci-Fi"],
+    "cast": ["John Boyega", "Gemma Chan", "Lakeith Stanfield", "Anya Taylor-Joy"],
+    "director": "Edgar Wright",
+    "streamingLinks": {
+      "netflix": "https://netflix.com/title/neon-nights",
+      "hbo": "https://hbomax.com/movie/neon-nights",
+      "prime": "https://amazon.com/gp/video/detail/neon-nights"
+    }
+  },
+  {
+    "Id": 5,
+    "title": "The Painter's Curse",
+    "year": 2023,
+    "poster": "https://images.unsplash.com/photo-1594736797933-d0c19cdabf2e?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "When an art restorer discovers a hidden painting, she unleashes a centuries-old curse. A supernatural thriller that blends art history with modern horror.",
+    "rating": 7.6,
+    "genres": ["Horror", "Mystery", "Supernatural"],
+    "cast": ["Elisabeth Moss", "Brian Cox", "Thomasin McKenzie", "Mahershala Ali"],
+    "director": "Ari Aster",
+    "streamingLinks": {
+      "hulu": "https://hulu.com/movie/painters-curse",
+      "prime": "https://amazon.com/gp/video/detail/painters-curse",
+      "shudder": "https://shudder.com/movie/painters-curse"
+    }
+  },
+  {
+    "Id": 6,
+    "title": "Ocean's Deep",
+    "year": 2024,
+    "poster": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "A marine biologist discovers an ancient civilization beneath the Pacific Ocean, but her findings attract dangerous attention from those who would exploit this discovery.",
+    "rating": 8.7,
+    "genres": ["Adventure", "Mystery", "Sci-Fi"],
+    "cast": ["Lupita Nyong'o", "Adam Driver", "Gong Li", "Sterling K. Brown"],
+    "director": "James Cameron",
+    "streamingLinks": {
+      "disney": "https://disneyplus.com/movie/oceans-deep",
+      "prime": "https://amazon.com/gp/video/detail/oceans-deep",
+      "netflix": "https://netflix.com/title/oceans-deep"
+    }
+  },
+  {
+    "Id": 7,
+    "title": "The Sound of Silence",
+    "year": 2023,
+    "poster": "https://images.unsplash.com/photo-1489599807473-d1b7e25df08d?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "A deaf musician fights to save her family's music venue while discovering that her condition might be the key to solving an ancient musical mystery.",
+    "rating": 8.9,
+    "genres": ["Drama", "Music", "Mystery"],
+    "cast": ["Millicent Simmonds", "Mahershala Ali", "Viola Davis", "LaKeith Stanfield"],
+    "director": "Barry Jenkins",
+    "streamingLinks": {
+      "netflix": "https://netflix.com/title/sound-of-silence",
+      "apple": "https://tv.apple.com/movie/sound-of-silence",
+      "hulu": "https://hulu.com/movie/sound-of-silence"
+    }
+  },
+  {
+    "Id": 8,
+    "title": "Quantum Leap",
+    "year": 2024,
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "A physicist accidentally creates a device that allows her to jump between parallel universes, but each jump makes it harder to find her way home.",
+    "rating": 8.0,
+    "genres": ["Sci-Fi", "Adventure", "Drama"],
+    "cast": ["Brie Larson", "Oscar Isaac", "Daniel Kaluuya", "Hong Chau"],
+    "director": "The Russo Brothers",
+    "streamingLinks": {
+      "prime": "https://amazon.com/gp/video/detail/quantum-leap",
+      "netflix": "https://netflix.com/title/quantum-leap",
+      "hbo": "https://hbomax.com/movie/quantum-leap"
+    }
+  },
+  {
+    "Id": 9,
+    "title": "Midnight Train",
+    "year": 2022,
+    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "A cross-country train journey becomes a race against time when passengers discover they're carrying a dangerous secret that could change the world.",
+    "rating": 7.4,
+    "genres": ["Thriller", "Action", "Mystery"],
+    "cast": ["Michael B. Jordan", "Alicia Vikander", "Jeffrey Wright", "Regina King"],
+    "director": "Ryan Coogler",
+    "streamingLinks": {
+      "hulu": "https://hulu.com/movie/midnight-train",
+      "prime": "https://amazon.com/gp/video/detail/midnight-train",
+      "netflix": "https://netflix.com/title/midnight-train"
+    }
+  },
+  {
+    "Id": 10,
+    "title": "The Time Keeper",
+    "year": 2023,
+    "poster": "https://images.unsplash.com/photo-1541562232579-512a21360020?w=400&h=600&fit=crop&crop=face",
+    "synopsis": "An aging clockmaker discovers that his antique timepieces can manipulate time itself, but using this power comes with devastating consequences.",
+    "rating": 8.5,
+    "genres": ["Fantasy", "Drama", "Mystery"],
+    "cast": ["Anthony Hopkins", "Thomasin McKenzie", "Brian Cox", "Lupita Nyong'o"],
+    "director": "Guillermo del Toro",
+    "streamingLinks": {
+      "netflix": "https://netflix.com/title/time-keeper",
+      "prime": "https://amazon.com/gp/video/detail/time-keeper",
+      "apple": "https://tv.apple.com/movie/time-keeper"
+    }
+  }
+]
