@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useContext } from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import ApperIcon from '@/components/ApperIcon';
@@ -6,11 +6,12 @@ import SearchBar from '@/components/molecules/SearchBar';
 import Button from '@/components/atoms/Button';
 import { routes } from '@/config/routes';
 import watchlistService from '@/services/api/watchlistService';
-
+import { AuthContext } from '@/App';
 const Header = ({ onMobileMenuToggle, isMobileMenuOpen }) => {
   const [scrolled, setScrolled] = useState(false);
   const [watchlistCount, setWatchlistCount] = useState(0);
   const navigate = useNavigate();
+  const { logout } = useContext(AuthContext);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -95,7 +96,7 @@ const Header = ({ onMobileMenuToggle, isMobileMenuOpen }) => {
             <SearchBar />
           </div>
 
-          {/* Desktop Actions */}
+{/* Desktop Actions */}
           <div className="hidden md:flex items-center space-x-4">
             <Button
               variant="ghost"
@@ -117,6 +118,13 @@ const Header = ({ onMobileMenuToggle, isMobileMenuOpen }) => {
                 </span>
               )}
             </Button>
+            <Button
+              variant="ghost"
+              icon="LogOut"
+              onClick={logout}
+              title="Logout"
+              className="text-slate-300 hover:text-red-400"
+            />
           </div>
 
           {/* Mobile Menu Button */}
